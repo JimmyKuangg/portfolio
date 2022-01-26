@@ -11870,3 +11870,8 @@ section.resume-section .resume-section-content {
 .github-link:hover {
   color: blue;
 }
+
+.about-me-resume {
+  text-decoration: none;
+  color: black;
+}
